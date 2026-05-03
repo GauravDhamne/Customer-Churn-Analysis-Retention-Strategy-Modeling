@@ -1,2 +1,1 @@
-# ECOMMERCE
-Online Store
+# Customer Churn Analysis & Retention Strategy Modeling
