@@ -1,5 +1,7 @@
 # Customer Churn Analysis & Retention Strategy Modeling
 
+<div align="center"> <img src="https://github.com/GauravDhamne/E2E-Online-Retail-Sales-Data-Analysis-Project-SQL-Python-PowerBI/blob/main/Images/" alt="Retail Sales Process"> </div>
+
 ## Project Overview
 This project focuses on analyzing customer behavior and predicting customer churn using Machine Learning techniques. The goal is to identify customers who are likely to leave a service and understand the key factors affecting customer retention.
 
