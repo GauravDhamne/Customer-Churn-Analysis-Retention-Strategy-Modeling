@@ -111,4 +111,8 @@ Currently working on:
 ## Author
 Gaurav Dhamne
 
-Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
+📧 Email: gauravdhamne5@gmail.com
+
+🔗 LinkedIn: http://linkedin.com/in/gɑurɑv-dhɑmne-14a4aa281
+
+💻 GitHub: https://github.com/GauravDhamne
