@@ -5,7 +5,7 @@ This project focuses on analyzing customer behavior and predicting customer chur
 
 The project combines data analysis, preprocessing, machine learning, SQL querying, and dashboard visualization to generate business insights and support retention strategies.
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Objectives
 - Analyze customer behavior and service usage patterns
@@ -15,7 +15,7 @@ The project combines data analysis, preprocessing, machine learning, SQL queryin
 - Generate insights for customer retention strategies
 - Create visual reports and dashboards for business understanding
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Tools & Technologies Used
 - Python
@@ -26,7 +26,7 @@ The project combines data analysis, preprocessing, machine learning, SQL queryin
 - Power BI
 - Jupyter Notebook
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Project Workflow
 
@@ -63,7 +63,7 @@ The project combines data analysis, preprocessing, machine learning, SQL queryin
 - Visualized churn trends and customer insights
 - Presented findings in a business-friendly format
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Key Insights
 - Customers with lower engagement showed higher churn probability
@@ -71,7 +71,7 @@ The project combines data analysis, preprocessing, machine learning, SQL queryin
 - Certain subscription and support features influenced customer loyalty
 - Data-driven insights can help improve retention strategies
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Project Status
 🚧 Ongoing Project
@@ -83,7 +83,7 @@ Currently working on:
 - Dashboard enhancements
 - Model deployment using Streamlit/Flask
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Future Improvements
 - Add multiple machine learning algorithms
@@ -92,7 +92,7 @@ Currently working on:
 - Implement customer segmentation techniques
 - Add automated reporting features
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Skills Demonstrated
 - Data Cleaning & Preprocessing
@@ -104,7 +104,7 @@ Currently working on:
 - Business Insight Generation
 - Dashboard Development
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Author
 Gaurav Dhamne
